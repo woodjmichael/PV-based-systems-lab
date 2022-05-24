@@ -1,4 +1,4 @@
-d [cm],irrad [W/m2],V [V],R [ohms],R error +,R error -
+L [cm],irrad [W/m2],V [V],R [ohms],R error +,R error -
 60,920,11.8,1000000,1050000,950000
 60,920,10.6,37,38.85,35.15
 60,920,10.5,25,26.25,23.75
